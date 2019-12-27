@@ -60,3 +60,12 @@ just some demos, foundation of the React.js
     - Unmounting
 
 + 用 ```shouldComponentUpdate(nextProps, nextState)``` 优化 ```ServiceItem.js``` 的性能
+
+## demo05
+
++ React 中的动画: transition
++ 关键帧动画：keyframes
++ 动画库：react-transition-group（官方维护）
+    - Transition
+    - CSSTransition
+    - TransitionGroup
